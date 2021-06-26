@@ -1,2 +1,4 @@
-"# gym_app" 
-"# gym_app" 
+
+1. sweetalert pending
+2. actor crud
+3. 
